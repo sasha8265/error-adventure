@@ -48,19 +48,19 @@ My print statements look exactly the same for my code and the solution:
 
 **Mine** - no error
 
-![](screencaptures/same result-no error.png)
+![](screencaptures/same_result-no error.png)
 
 
 
 **Solution** - error:
 
-![](screencaptures/same result-error.png)
+![](screencaptures/same_result-error.png)
 
 
 
 **Solution** - no error when list is empty:
 
-![](screencaptures/no error-empty list.png)
+![](screencaptures/no_error-empty_list.png)
 
 
 
