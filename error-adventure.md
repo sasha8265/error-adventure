@@ -48,27 +48,27 @@ My print statements look exactly the same for my code and the solution:
 
 **Mine** - no error
 
-![](/Users/sashahome/Dropbox/Screenshots/same result-no error.png)
+![](screencaptures/same result-no error.png)
 
 
 
 **Solution** - error:
 
-![](/Users/sashahome/Dropbox/Screenshots/same result-error.png)
+![](screencaptures/same result-error.png)
 
 
 
 **Solution** - no error when list is empty:
 
-![](/Users/sashahome/Dropbox/Screenshots/no error-empty list.png)
+![](screencaptures/no error-empty list.png)
 
 
 
-Then I plaed with the debugger and found this weirdness:
+Then I played with the debugger and found this weirdness:
 
 **Mine** - when I raise an error:
 
-![](/Users/sashahome/Dropbox/Screenshots/debugger_no-error.png)
+![](screencaptures/debugger_no-error.png)
 
 The **4** in that tuple looks like its an integer, like its supposed to be
 
@@ -76,7 +76,7 @@ The **4** in that tuple looks like its an integer, like its supposed to be
 
 **Solution** - when it fails to load the Select Field choices:
 
-![](/Users/sashahome/Dropbox/Screenshots/debugger_error.png)
+![](screencaptures/debugger_error.png)
 
 That doesn't look like an integer here 
 
@@ -86,11 +86,11 @@ Then I tried this on both, and now they both look like integers:
 
 **Mine**:
 
-![](/Users/sashahome/Dropbox/Screenshots/Screen Shot 2022-05-17 at 11.45.25 AM.png)
+![](screencaptures/another_debugger_no-error.png)
 
 **Solution**:
 
-![](/Users/sashahome/Dropbox/Screenshots/Screen Shot 2022-05-17 at 11.43.02 AM.png)
+![](screencaptures/another_debugger_error.png)
 
 
 
