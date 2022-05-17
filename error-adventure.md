@@ -50,7 +50,7 @@ My print statements look exactly the same for my code and the solution:
 
 no error
 
-![](screencaptures/same_result-no error.png)
+![](screencaptures/same_result-no-error.png)
 
 ------
 
